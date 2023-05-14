@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+
+  hugo:
+    build: .
+    working_dir: /app
+    ports:
+      - 1313:1313
+    volumes:
+      - ./src:/app
+    command: ["server", "-D"]
+
+  static:
+    image: nginx
+    ports:
+      - 80:80
+    volumes:
+      - ./src/public:/usr/share/nginx/html
+    depends_on:
+      - hugo
