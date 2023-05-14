@@ -14,4 +14,4 @@ Point your browser to http://localhost:1313 for the Hugo server side and http://
 Create an issue [here](https://github.com/naveed125/hugo-docker/issues).
 
 ## Enjoy!
-Thanks to [@adityatelange](https://github.com/adityatelange) for creating the PaperMod theme.
+Thanks to [@adityatelange](https://github.com/adityatelange) for creating the PaperMod theme and [@klakegg](https://github.com/klakegg) for the base docker image.
