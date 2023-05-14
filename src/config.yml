@@ -46,8 +46,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "**Effective Programmer** Ideas for success in software engineering."
+    title: "Hello! \U0001F44B"
+    subtitle: "**Effective Programmer** is a blog about ideas for success in software engineering."
     imageUrl: "images/logo.jpg"
     imageWidth: 120
     imageHeight: 120
