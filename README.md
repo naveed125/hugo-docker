@@ -1,5 +1,5 @@
 # Hugo Docker
-Instantaneous [Hugo]() development environment setup with docker. Uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme.
+Instantaneous [Hugo](https://gohugo.io) development environment setup with docker. Uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme.
 
 # How to
 Clone the repo and run the following commands:
